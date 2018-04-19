@@ -45,7 +45,7 @@ const defaultConfig = {
 const environmentConfigs = {
   development: {
     mongo: {
-      uri: process.env.MONGO_URI || 'mongodb://localhost/noetic-cms',
+      uri: process.env.MONGO_URI || 'mongodb://localhost/development',
     },
     security: {
       saltRounds: 4,
