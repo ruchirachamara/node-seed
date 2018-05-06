@@ -13,7 +13,7 @@
   ```npm build```
 
 - ### DB Connectivity
-  ```MongoDB connectivity included along with the Mongoose ORM tool support```
+  MongoDB connectivity included along with the Mongoose ORM tool support.
 
 - ### ToDo
-  ```MySQL DB Connectivity and other few database connectivity to be added along with their supported ORL tools (ex: Sequalize)```
+  MySQL DB Connectivity and other few database connectivity to be added along with their supported ORL tools (ex: Sequalize)
