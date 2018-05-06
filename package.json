@@ -1,7 +1,7 @@
 {
-  "name": "node-rest-api-boilerplate",
-  "version": "0.10.0",
-  "description": "Boilerplate project for a restful node backend server powered by ES6 and Express",
+  "name": "node-seed",
+  "version": "0.0.2",
+  "description": "Seed project which can be used as a rest layer for the server rendering part.",
   "main": "index.js",
   "scripts": {
     "build": "npm run clean && babel app -d build",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kylealwyn/node-rest-api-boilerplate.git"
+    "url": "https://github.com/ruchirachamara/node-seed"
   },
   "keywords": [
     "express",
@@ -29,12 +29,12 @@
     "boilerplate",
     "mongo"
   ],
-  "author": "Kyle Alwyn <kjalwyn@gmail.com>",
+  "author": "Ruchira Chamara <bandararuchira3@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kylealwyn/node-rest-api-boilerplate/issues"
+    "url": "https://github.com/ruchirachamara/node-seed/issues"
   },
-  "homepage": "https://github.com/kylealwyn/node-rest-api-boilerplate",
+  "homepage": "https://github.com/ruchirachamara/node-seed",
   "dependencies": {
     "babel-core": "^6.18.0",
     "bcrypt": "^1.0.0",
