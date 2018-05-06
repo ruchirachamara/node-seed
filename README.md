@@ -1,19 +1,19 @@
 # NodeJS-Seed Project
 
 - ### Clone the project from the following link
-        ```https://github.com/ruchirachamara/node-seed.git```
+  ```https://github.com/ruchirachamara/node-seed.git```
 
 - ### Install the dependencies
-        ```cd node-seed && npm install```
+  ```cd node-seed && npm install```
 
 - ### Run the project
-        ```npm start```
+  ```npm start```
 
 - ### To Build the project
-        ```npm build```
+  ```npm build```
 
 - ### DB Connectivity
-        ```MongoDB connectivity included along with the Mongoose ORM tool support```
+  ```MongoDB connectivity included along with the Mongoose ORM tool support```
 
 - ### ToDo
-        ```MySQL DB Connectivity and other few database connectivity to be added along with their supported ORL tools (ex: Sequalize)```
+  ```MySQL DB Connectivity and other few database connectivity to be added along with their supported ORL tools (ex: Sequalize)```
